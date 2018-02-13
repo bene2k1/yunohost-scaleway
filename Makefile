@@ -4,8 +4,8 @@ VERSION_ALIASES =       1.0.0 1.0 0
 TITLE =                 Yunohost
 DESCRIPTION =           Yunohost on Debian Jessie
 DOC_URL =
-SOURCE_URL =            https://github.com/scaleway-community/yunohost-scaleway
-VENDOR_URL =
+SOURCE_URL =            https://github.com/bene2k1/yunohost-scaleway
+VENDOR_URL =		https://yunohost.org
 DEFAULT_IMAGE_ARCH =	x86_64
 
 
